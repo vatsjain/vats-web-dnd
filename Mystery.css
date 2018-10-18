@@ -1,0 +1,33 @@
+body{
+background-image: url(https://creditrepair-reporter.com/wp-content/uploads/2014/10/green-gradient-1366x768-abstract-background-80-35608735.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+h1{
+border-left: 5px solid blue;
+background-color: yellowgreen;
+font-family: times new roman;
+}
+h2{
+text-align: center;
+font-family: times new roman;
+border-left: 5px solid blue;
+border-right: 5px solid blue;
+margin: auto;
+width: 200px;
+content:"";
+}
+p,ul{
+font-size: 20px;
+}
+button {
+color: black;
+border-radius: 10px;
+text-align: center;
+padding: 5px;
+background-color: yellowgreen;
+text-shadow: 1px 1px 1px black;
+}
+button:hover{
+color: DarkOrange;
+}
